@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _site/*
 _theme_packages/*
 
@@ -8,3 +9,19 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+=======
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+>>>>>>> 3ba07a4b11f7dbfef0ebf541e50de0cbe8c1ffe8
